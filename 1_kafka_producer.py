@@ -9,7 +9,7 @@ from confluent_kafka import Producer
 # 1. API AND KAFKA CONFIGURATION
 # ==========================================
 # IMPORTANT: Paste your real AIzaSy... key inside these quotes!
-YOUTUBE_API_KEY = 'AIzaSyDYysrVF0LJhJN67soadjsqiC30sWZQcqI' 
+YOUTUBE_API_KEY = '' 
 KAFKA_TOPIC = 'youtube_stream'
 
 conf = {
